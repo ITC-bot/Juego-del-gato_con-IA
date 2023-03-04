@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1677949460 source:d:\6to semestre\inteligencia artificial i\gato\el juego del gato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1677949460 source:d:\uabcs\6to semestre\inteligencia artificial i\gato\el juego del gato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
