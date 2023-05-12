@@ -39,9 +39,9 @@ void loop (char c [3][3])
     ganador = quien_gana(c);
     contador++;
     }while (ganador == 2 && contador < 9);
-
-// Cambio de línea para separar la matriz del resultado final
-    printf("\n");
+    
+    system("cls");
+    mapa(c);
 
     if (ganador == 0) {
         printf("Ganador\n\n");
